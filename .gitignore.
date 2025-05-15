@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.csv
+output/
+dataset/transaction_anomalies_dataset.csv
+.env
+.idea/
+.vscode/
+*.log
+*.sqlite3
